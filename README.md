@@ -1,7 +1,7 @@
 - 👋🏿 Hi, I’m @PascalPolygon
 - [My Website](https://www.pascaldao.org/)
 - 👀 I’m interested in goal-directed planning for RL, Mobile Ad-Hoc Networks (MANET), 3D printing, and Jujitsu 🤙🏿 !
-- 🌱 I’m currently a PhD student in Computer Engineering at Florida Institute of Technology
+- 🌱 I have a PhD in Computer Engineering at Florida Institute of Technology
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 You can reach me at pdao2015@my.fit.edu
 
